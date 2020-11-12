@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-EOT1LCF</Machine>
+    <WindowsUser>felz</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>65a55780-26aa-4d29-8b1a-b2ccd1c0f81f</PackageIdentityName>
+    <PackageIdentityPublisher>CN=HENLIE</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>982E50551DE27BAA4013276A40BC50B74A473C5854D173FCFDEB0E6F509C0AEC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>65a55780-26aa-4d29-8b1a-b2ccd1c0f81f_1.0.0.0_neutral__h951st45pbv8r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>65a55780-26aa-4d29-8b1a-b2ccd1c0f81f_h951st45pbv8r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>65a55780-26aa-4d29-8b1a-b2ccd1c0f81f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=HENLIE</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-11-12T09:32:25.487</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\images\ground_texture.jpg">
+      <PackagePath>images\ground_texture.jpg</PackagePath>
+      <Modified>2020-11-12T08:07:30.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\images\height_map.jpg">
+      <PackagePath>images\height_map.jpg</PackagePath>
+      <Modified>2020-11-12T08:15:56.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\images\henkebenke.png">
+      <PackagePath>images\henkebenke.png</PackagePath>
+      <Modified>2020-11-07T12:21:23.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\images\minecraft_wood.png">
+      <PackagePath>images\minecraft_wood.png</PackagePath>
+      <Modified>2020-11-12T09:28:37.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-12-09T11:01:28.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-09T11:01:28.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-09T11:01:28.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-09T11:01:28.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-09T11:01:28.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-09T11:01:28.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-09T11:01:28.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2020-07-08T14:25:20.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\external\babylon.d.ts">
+      <PackagePath>js\external\babylon.d.ts</PackagePath>
+      <Modified>2020-07-08T11:59:14.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\external\babylon.gui.min.js">
+      <PackagePath>js\external\babylon.gui.min.js</PackagePath>
+      <Modified>2020-07-08T11:13:37.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\external\babylon.inspector.bundle.js">
+      <PackagePath>js\external\babylon.inspector.bundle.js</PackagePath>
+      <Modified>2020-07-08T11:13:07.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\external\babylon.js">
+      <PackagePath>js\external\babylon.js</PackagePath>
+      <Modified>2020-11-12T08:40:18.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\external\babylonjs.loaders.min.js">
+      <PackagePath>js\external\babylonjs.loaders.min.js</PackagePath>
+      <Modified>2020-07-08T13:11:55.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\external\babylonjs.materials.min.js">
+      <PackagePath>js\external\babylonjs.materials.min.js</PackagePath>
+      <Modified>2020-07-08T11:13:21.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\external\babylonjs.postProcess.min.js">
+      <PackagePath>js\external\babylonjs.postProcess.min.js</PackagePath>
+      <Modified>2020-07-08T11:13:29.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\external\babylonjs.proceduralTextures.min.js">
+      <PackagePath>js\external\babylonjs.proceduralTextures.min.js</PackagePath>
+      <Modified>2020-07-08T11:13:46.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\external\babylonjs.serializers.min.js">
+      <PackagePath>js\external\babylonjs.serializers.min.js</PackagePath>
+      <Modified>2020-07-08T11:13:53.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\external\dat.gui.min.js">
+      <PackagePath>js\external\dat.gui.min.js</PackagePath>
+      <Modified>2020-07-08T11:12:42.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\external\pep.min.js">
+      <PackagePath>js\external\pep.min.js</PackagePath>
+      <Modified>2020-07-08T11:12:18.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2020-11-12T09:32:17.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2020-07-08T13:22:49.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\minimal.fragment.glsl">
+      <PackagePath>minimal.fragment.glsl</PackagePath>
+      <Modified>2020-11-12T07:49:43.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\minimal.vertex.glsl">
+      <PackagePath>minimal.vertex.glsl</PackagePath>
+      <Modified>2020-07-09T08:43:18.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-11-12T09:29:48.373</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

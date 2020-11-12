@@ -1,0 +1,21 @@
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bin\Debug\ReverseMap\resources.pri
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bin\Debug\AppxManifest.xml
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bin\Debug\GrafikkProgrammering Eksamen.build.appxrecipe
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\GrafikkProgrammering Eksamen.jsproj.CoreCompileInputs.cache
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\ResourceHandlingTask.state
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\priconfig.xml
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\priconfig.xml.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\unfiltered.layout.resfiles
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\unfiltered.layout.resfiles.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\filtered.layout.resfiles
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\filtered.layout.resfiles.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\excluded.layout.resfiles
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\excluded.layout.resfiles.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\resources.resfiles
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\resources.resfiles.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\pri.resfiles
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\pri.resfiles.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\qualifiers.txt
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\qualifiers.txt.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\ProjectArchitectures.txt

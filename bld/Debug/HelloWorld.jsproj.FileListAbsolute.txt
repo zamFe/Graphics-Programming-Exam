@@ -1,0 +1,42 @@
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bin\Debug\ReverseMap\resources.pri
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bin\Debug\AppxManifest.xml
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bin\Debug\HelloWorld.build.appxrecipe
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\HelloWorld.jsproj.CoreCompileInputs.cache
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\ResourceHandlingTask.state
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\priconfig.xml
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\priconfig.xml.intermediate
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\unfiltered.layout.resfiles
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\filtered.layout.resfiles
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\filtered.layout.resfiles.intermediate
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\excluded.layout.resfiles
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\excluded.layout.resfiles.intermediate
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\resources.resfiles
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\resources.resfiles.intermediate
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\pri.resfiles
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\pri.resfiles.intermediate
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\qualifiers.txt
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\qualifiers.txt.intermediate
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\henlie\Desktop\grafikkprog\Code\HelloWorld\HelloWorld\bld\Debug\ProjectArchitectures.txt
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bin\Debug\ReverseMap\resources.pri
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bin\Debug\AppxManifest.xml
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bin\Debug\HelloWorld.build.appxrecipe
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\HelloWorld.jsproj.CoreCompileInputs.cache
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\ResourceHandlingTask.state
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\priconfig.xml
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\priconfig.xml.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\unfiltered.layout.resfiles
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\unfiltered.layout.resfiles.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\filtered.layout.resfiles
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\filtered.layout.resfiles.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\excluded.layout.resfiles
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\excluded.layout.resfiles.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\resources.resfiles
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\resources.resfiles.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\pri.resfiles
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\pri.resfiles.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\qualifiers.txt
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\qualifiers.txt.intermediate
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Users\felz\Desktop\GrafikkProgrammering Eksamen\HelloWorld\bld\Debug\ProjectArchitectures.txt
